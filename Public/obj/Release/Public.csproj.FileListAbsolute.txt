@@ -1,0 +1,9 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Public\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Public\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Public\obj\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Public\obj\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Public\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Public\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Public\obj\Release\Public.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Public\obj\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Public\obj\Release\Public.pdb

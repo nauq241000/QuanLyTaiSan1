@@ -1,0 +1,8 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\bin\Debug\PhanCong.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\bin\Debug\PhanCong.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\obj\Debug\PhanCong.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\obj\Debug\PhanCong.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\PhanCong\bin\Debug\PhanCong.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\PhanCong\bin\Debug\PhanCong.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\PhanCong\obj\Debug\PhanCong.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\PhanCong\obj\Debug\PhanCong.pdb

@@ -1,0 +1,14 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Release\Data.pdb

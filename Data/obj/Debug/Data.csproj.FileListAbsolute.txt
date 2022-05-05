@@ -1,0 +1,35 @@
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.dll
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.pdb
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.dll
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.pdb
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.dll
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.pdb
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.dll
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.pdb
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.dll
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.pdb
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.dll
+C:\Users\HP\Desktop\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\bin\Debug\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\Data\obj\Debug\Data.pdb

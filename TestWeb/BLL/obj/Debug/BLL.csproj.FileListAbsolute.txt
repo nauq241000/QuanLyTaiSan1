@@ -1,0 +1,45 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Debug\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Debug\BLL.pdb

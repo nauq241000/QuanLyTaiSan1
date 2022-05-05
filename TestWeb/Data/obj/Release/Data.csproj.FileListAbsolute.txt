@@ -1,0 +1,28 @@
+D:\Thuctap\TestWeb\Data\bin\Release\Data.dll
+D:\Thuctap\TestWeb\Data\bin\Release\Data.pdb
+D:\Thuctap\TestWeb\Data\obj\Release\Data.dll
+D:\Thuctap\TestWeb\Data\obj\Release\Data.pdb
+D:\Thuctap\TestWeb\Data\bin\Release\Public.dll
+D:\Thuctap\TestWeb\Data\bin\Release\Public.pdb
+D:\Thuctap\TestWeb\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+D:\TestWeb\Data\bin\Release\Data.dll
+D:\TestWeb\Data\bin\Release\Data.pdb
+D:\TestWeb\Data\bin\Release\Public.dll
+D:\TestWeb\Data\bin\Release\Public.pdb
+D:\TestWeb\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+D:\TestWeb\Data\obj\Release\Data.dll
+D:\TestWeb\Data\obj\Release\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\obj\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\obj\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\obj\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Data\obj\Release\Data.pdb

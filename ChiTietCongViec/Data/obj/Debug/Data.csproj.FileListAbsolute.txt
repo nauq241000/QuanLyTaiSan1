@@ -1,0 +1,35 @@
+D:\Thuctap\ChiTietCongViec\Data\bin\Debug\Data.dll
+D:\Thuctap\ChiTietCongViec\Data\bin\Debug\Data.pdb
+D:\Thuctap\ChiTietCongViec\Data\bin\Debug\Public.dll
+D:\Thuctap\ChiTietCongViec\Data\bin\Debug\Public.pdb
+D:\Thuctap\ChiTietCongViec\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Thuctap\ChiTietCongViec\Data\obj\Debug\Data.dll
+D:\Thuctap\ChiTietCongViec\Data\obj\Debug\Data.pdb
+D:\LuanVan\ChiTietCongViec\Data\bin\Debug\Data.dll
+D:\LuanVan\ChiTietCongViec\Data\bin\Debug\Data.pdb
+D:\LuanVan\ChiTietCongViec\Data\bin\Debug\Public.dll
+D:\LuanVan\ChiTietCongViec\Data\bin\Debug\Public.pdb
+D:\LuanVan\ChiTietCongViec\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\LuanVan\ChiTietCongViec\Data\obj\Debug\Data.dll
+D:\LuanVan\ChiTietCongViec\Data\obj\Debug\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Data.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Public.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Public.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Data.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Data.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Public.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\bin\Debug\Public.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Data\obj\Debug\Data.pdb

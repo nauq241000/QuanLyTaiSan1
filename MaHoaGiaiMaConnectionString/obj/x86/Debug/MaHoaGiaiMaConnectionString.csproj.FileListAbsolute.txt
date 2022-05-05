@@ -1,0 +1,21 @@
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Debug\MaHoaGiaiMaConnectionString.exe
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Debug\MaHoaGiaiMaConnectionString.pdb
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.frmMaHoaGiaiMa.resources
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.Properties.Resources.resources
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.csproj.GenerateResource.Cache
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.exe
+D:\Projects\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Debug\MaHoaGiaiMaConnectionString.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Debug\MaHoaGiaiMaConnectionString.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.frmMaHoaGiaiMa.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.Properties.Resources.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.csproj.GenerateResource.Cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Debug\MaHoaGiaiMaConnectionString.exe
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Debug\MaHoaGiaiMaConnectionString.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.frmMaHoaGiaiMa.resources
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.Properties.Resources.resources
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.csproj.GenerateResource.Cache
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.exe
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Debug\MaHoaGiaiMaConnectionString.pdb

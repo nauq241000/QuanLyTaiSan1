@@ -1,0 +1,77 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\QuanLyTaiSan.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\QuanLyTaiSan.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\MaHoaGiaiMaConnectionString.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\MessagingToolkit.QRCode.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\PhanCong.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\PhanCong.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\MaHoaGiaiMaConnectionString.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\View.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_DanhMucCongViec.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_PhanCongCongViec.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_THCV_ChonNgayThucHienCongViec.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_LichSuBanGiao.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TSHC_ChonTaiSanHienCo.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyDonVi.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyNhanSu.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyPhong.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TaiSanHienCo.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TSCM_ChonTaiSanMuaSam.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_NhomTaiSan.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TaiSanMuaSam.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TaiSanYeuCau.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmMain.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_YeuCau.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQRCode_Sua.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyFileHopDong.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_ThucHienCongViec.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.Properties.Resources.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.XtraReport_TaiSanHienCo.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\View.csproj.GenerateResource.Cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.exe.licenses
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.exe
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\QuanLyTaiSan.exe
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\QuanLyTaiSan.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\MaHoaGiaiMaConnectionString.exe
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\PhanCong.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\PhanCong.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\MaHoaGiaiMaConnectionString.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\bin\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\View.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmBHSC_QuanLyFileHoSoThanhToan.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_DanhMucCongViec.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_PhanCongCongViec.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_THCV_ChonNgayThucHienCongViec.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_LichSuBanGiao.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TSHC_ChonTaiSanHienCo.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyDonVi.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyNhanSu.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyPhong.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TaiSanHienCo.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TSCM_ChonTaiSanMuaSam.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_NhomTaiSan.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TaiSanMuaSam.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_TaiSanYeuCau.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmMain.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_YeuCau.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQRCode_Sua.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmQLTS_QuanLyFileHopDong.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.frmPCCV_ThucHienCongViec.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.Properties.Resources.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.XtraReport_BaoHanh.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.XtraReport_TaiSanHienCo.resources
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\View.csproj.GenerateResource.Cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\QuanLyTaiSan\obj\x86\Release\QuanLyTaiSan.exe.licenses

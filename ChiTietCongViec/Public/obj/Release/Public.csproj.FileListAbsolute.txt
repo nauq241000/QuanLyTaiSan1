@@ -1,0 +1,13 @@
+D:\LuanVan\ChiTietCongViec\Public\bin\Release\Public.dll
+D:\LuanVan\ChiTietCongViec\Public\bin\Release\Public.pdb
+D:\LuanVan\ChiTietCongViec\Public\obj\Release\Public.dll
+D:\LuanVan\ChiTietCongViec\Public\obj\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\obj\Release\Public.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\obj\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\obj\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\obj\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\Public\obj\Release\Public.pdb

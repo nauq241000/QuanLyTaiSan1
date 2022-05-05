@@ -1,0 +1,36 @@
+D:\Thuctap\TestWeb\BLL\bin\Release\BLL.dll
+D:\Thuctap\TestWeb\BLL\bin\Release\BLL.pdb
+D:\Thuctap\TestWeb\BLL\bin\Release\Data.dll
+D:\Thuctap\TestWeb\BLL\bin\Release\Public.dll
+D:\Thuctap\TestWeb\BLL\bin\Release\Data.pdb
+D:\Thuctap\TestWeb\BLL\bin\Release\Public.pdb
+D:\Thuctap\TestWeb\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\Thuctap\TestWeb\BLL\obj\Release\BLL.dll
+D:\Thuctap\TestWeb\BLL\obj\Release\BLL.pdb
+D:\TestWeb\BLL\bin\Release\BLL.dll
+D:\TestWeb\BLL\bin\Release\BLL.pdb
+D:\TestWeb\BLL\bin\Release\Data.dll
+D:\TestWeb\BLL\bin\Release\Public.dll
+D:\TestWeb\BLL\bin\Release\Data.pdb
+D:\TestWeb\BLL\bin\Release\Public.pdb
+D:\TestWeb\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\TestWeb\BLL\obj\Release\BLL.dll
+D:\TestWeb\BLL\obj\Release\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Release\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Release\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Release\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\BLL\obj\Release\BLL.pdb

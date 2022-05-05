@@ -1,0 +1,18 @@
+D:\Thuctap\TestWeb\Public\bin\Release\Public.dll
+D:\Thuctap\TestWeb\Public\bin\Release\Public.pdb
+D:\Thuctap\TestWeb\Public\obj\Release\Public.dll
+D:\Thuctap\TestWeb\Public\obj\Release\Public.pdb
+D:\Thuctap\TestWeb\Public\obj\Release\Public.csprojResolveAssemblyReference.cache
+D:\TestWeb\Public\bin\Release\Public.dll
+D:\TestWeb\Public\bin\Release\Public.pdb
+D:\TestWeb\Public\obj\Release\Public.dll
+D:\TestWeb\Public\obj\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\obj\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\obj\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\obj\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\obj\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\Public\obj\Release\Public.csprojResolveAssemblyReference.cache

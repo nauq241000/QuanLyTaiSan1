@@ -1,0 +1,265 @@
+D:\Thuctap\TestWeb\TestWeb\bin\TestWeb.dll
+D:\Thuctap\TestWeb\TestWeb\bin\TestWeb.pdb
+D:\Thuctap\TestWeb\TestWeb\obj\Debug\TestWeb.dll.licenses
+D:\Thuctap\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+D:\Thuctap\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll.licenses
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Microsoft.CSharp.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Configuration.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.DataSetExtensions.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Drawing.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.EnterpriseServices.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.ApplicationServices.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.DynamicData.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Entity.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Extensions.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Services.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.Linq.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.xml
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.xml
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.xml
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.xml
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Data.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Data.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Data.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Data.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Web.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Web.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Web.v15.2.resources.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Microsoft.CSharp.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Configuration.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.DataSetExtensions.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Drawing.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.EnterpriseServices.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.ApplicationServices.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.DynamicData.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Entity.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Extensions.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Services.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.Linq.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.xml
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.xml
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.xml
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.pdb
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll.licenses
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+C:\Users\nauq2\Documents\Zalo Received Files\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Microsoft.CSharp.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Configuration.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.DataSetExtensions.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Drawing.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.EnterpriseServices.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.ApplicationServices.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.DynamicData.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Entity.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Extensions.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Services.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.Linq.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.xml
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.xml
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.xml
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.pdb
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Web.v15.2.resources.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll.licenses
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+C:\Users\nauq2\OneDrive\Máy tính\LuanVan\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Microsoft.CSharp.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Configuration.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.DataSetExtensions.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Drawing.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.EnterpriseServices.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.ApplicationServices.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.DynamicData.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Entity.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Extensions.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Services.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.Linq.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.xml
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.xml
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.xml
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.xml
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.pdb
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Data.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Data.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Data.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Data.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Web.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Web.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Web.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Web.v15.2.resources.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll.licenses
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+D:\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\TestWeb.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Microsoft.CSharp.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Configuration.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.DataSetExtensions.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Drawing.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.EnterpriseServices.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.ApplicationServices.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.DynamicData.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Entity.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Extensions.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Web.Services.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\System.Xml.Linq.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Data.v15.2.xml
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Printing.v15.2.Core.xml
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.RichEdit.v15.2.Core.xml
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\DevExpress.Web.v15.2.xml
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Data.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Data.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Data.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Data.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\de\DevExpress.Web.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\es\DevExpress.Web.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ja\DevExpress.Web.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\bin\ru\DevExpress.Web.v15.2.resources.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll.licenses
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\TestWeb\TestWeb\obj\Debug\TestWeb.pdb

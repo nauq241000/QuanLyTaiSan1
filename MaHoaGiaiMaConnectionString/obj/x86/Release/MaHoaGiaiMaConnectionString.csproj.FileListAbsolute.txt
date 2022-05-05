@@ -1,0 +1,7 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Release\MaHoaGiaiMaConnectionString.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\bin\Release\MaHoaGiaiMaConnectionString.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Release\MaHoaGiaiMaConnectionString.frmMaHoaGiaiMa.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Release\MaHoaGiaiMaConnectionString.Properties.Resources.resources
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Release\MaHoaGiaiMaConnectionString.csproj.GenerateResource.Cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Release\MaHoaGiaiMaConnectionString.exe
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\MaHoaGiaiMaConnectionString\obj\x86\Release\MaHoaGiaiMaConnectionString.pdb

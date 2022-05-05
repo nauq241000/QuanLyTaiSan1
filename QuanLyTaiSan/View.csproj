@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D30B7723-5652-4483-9F47-A5FDC80698AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyTaiSan</RootNamespace>
+    <AssemblyName>QuanLyTaiSan</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="MessagingToolkit.QRCode">
+      <HintPath>..\..\..\..\Library\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBHSC_QuanLyFileHoSoThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBHSC_QuanLyFileHoSoThanhToan.Designer.cs">
+      <DependentUpon>frmBHSC_QuanLyFileHoSoThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPCCV_DanhMucCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPCCV_DanhMucCongViec.Designer.cs">
+      <DependentUpon>frmPCCV_DanhMucCongViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPCCV_PhanCongCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPCCV_PhanCongCongViec.Designer.cs">
+      <DependentUpon>frmPCCV_PhanCongCongViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPCCV_THCV_ChonNgayThucHienCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPCCV_THCV_ChonNgayThucHienCongViec.Designer.cs">
+      <DependentUpon>frmPCCV_THCV_ChonNgayThucHienCongViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_LichSuBanGiao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_LichSuBanGiao.Designer.cs">
+      <DependentUpon>frmQLTS_LichSuBanGiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_TSHC_ChonTaiSanHienCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_TSHC_ChonTaiSanHienCo.Designer.cs">
+      <DependentUpon>frmQLTS_TSHC_ChonTaiSanHienCo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyNhanSu.Designer.cs">
+      <DependentUpon>frmQLTS_QuanLyNhanSu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyPhong.Designer.cs">
+      <DependentUpon>frmQLTS_QuanLyPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_TaiSanHienCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_TaiSanHienCo.Designer.cs">
+      <DependentUpon>frmQLTS_TaiSanHienCo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_TSCM_ChonTaiSanMuaSam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_TSCM_ChonTaiSanMuaSam.Designer.cs">
+      <DependentUpon>frmQLTS_TSCM_ChonTaiSanMuaSam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_NhomTaiSan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_NhomTaiSan.Designer.cs">
+      <DependentUpon>frmQLTS_NhomTaiSan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_TaiSanMuaSam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_TaiSanMuaSam.Designer.cs">
+      <DependentUpon>frmQLTS_TaiSanMuaSam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_TaiSanYeuCau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_TaiSanYeuCau.Designer.cs">
+      <DependentUpon>frmQLTS_TaiSanYeuCau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_YeuCau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_YeuCau.Designer.cs">
+      <DependentUpon>frmQLTS_YeuCau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQRCode_Sua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQRCode_Sua.Designer.cs">
+      <DependentUpon>frmQRCode_Sua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyFileHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyFileHopDong.Designer.cs">
+      <DependentUpon>frmQLTS_QuanLyFileHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPCCV_ThucHienCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPCCV_ThucHienCongViec.Designer.cs">
+      <DependentUpon>frmPCCV_ThucHienCongViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmQLTS_QuanLyDonVi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTS_QuanLyDonVi.Designer.cs">
+      <DependentUpon>frmQLTS_QuanLyDonVi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThamSo.cs" />
+    <Compile Include="XtraReport_BaoHanh.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport_BaoHanh.Designer.cs">
+      <DependentUpon>XtraReport_BaoHanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReport_TaiSanHienCo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport_TaiSanHienCo.Designer.cs">
+      <DependentUpon>XtraReport_TaiSanHienCo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmBHSC_QuanLyFileHoSoThanhToan.resx">
+      <DependentUpon>frmBHSC_QuanLyFileHoSoThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPCCV_DanhMucCongViec.resx">
+      <DependentUpon>frmPCCV_DanhMucCongViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPCCV_PhanCongCongViec.resx">
+      <DependentUpon>frmPCCV_PhanCongCongViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPCCV_THCV_ChonNgayThucHienCongViec.resx">
+      <DependentUpon>frmPCCV_THCV_ChonNgayThucHienCongViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_LichSuBanGiao.resx">
+      <DependentUpon>frmQLTS_LichSuBanGiao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_TSHC_ChonTaiSanHienCo.resx">
+      <DependentUpon>frmQLTS_TSHC_ChonTaiSanHienCo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_QuanLyDonVi.resx">
+      <DependentUpon>frmQLTS_QuanLyDonVi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_QuanLyNhanSu.resx">
+      <DependentUpon>frmQLTS_QuanLyNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_QuanLyPhong.resx">
+      <DependentUpon>frmQLTS_QuanLyPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_TaiSanHienCo.resx">
+      <DependentUpon>frmQLTS_TaiSanHienCo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_TSCM_ChonTaiSanMuaSam.resx">
+      <DependentUpon>frmQLTS_TSCM_ChonTaiSanMuaSam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_NhomTaiSan.resx">
+      <DependentUpon>frmQLTS_NhomTaiSan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_TaiSanMuaSam.resx">
+      <DependentUpon>frmQLTS_TaiSanMuaSam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_TaiSanYeuCau.resx">
+      <DependentUpon>frmQLTS_TaiSanYeuCau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_YeuCau.resx">
+      <DependentUpon>frmQLTS_YeuCau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQRCode_Sua.resx">
+      <DependentUpon>frmQRCode_Sua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTS_QuanLyFileHopDong.resx">
+      <DependentUpon>frmQLTS_QuanLyFileHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPCCV_ThucHienCongViec.resx">
+      <DependentUpon>frmPCCV_ThucHienCongViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="XtraReport_BaoHanh.resx">
+      <DependentUpon>XtraReport_BaoHanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport_TaiSanHienCo.resx">
+      <DependentUpon>XtraReport_TaiSanHienCo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{C3FF0697-47A5-4FBC-BCDC-FCCB941374EE}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MaHoaGiaiMaConnectionString\MaHoaGiaiMaConnectionString.csproj">
+      <Project>{D7AB6CD2-A2C4-4849-ACA0-0BA714B63157}</Project>
+      <Name>MaHoaGiaiMaConnectionString</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhanCong\PhanCong.csproj">
+      <Project>{00B78272-D3C7-4052-8074-45B8E62FAD8F}</Project>
+      <Name>PhanCong</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Public\Public.csproj">
+      <Project>{978B4666-C7C5-4D2B-8109-51F84C2BDAE0}</Project>
+      <Name>Public</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

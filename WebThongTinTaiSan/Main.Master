@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="WebThongTinTaiSan.Main" %>
+<%@ Register src= "~/ucHeader.ascx" TagPrefix="ucHeader" TagName="Header" %>
+<%@ Register Src ="~/ucFooter.ascx" TagPrefix="ucFooter" TagName="Footer" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        <ucHeader:Header ID="Header1" runat=server />  
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        <ucFooter:Footer ID="Footer1" runat=server />
+
+    </div>
+    </form>
+</body>
+</html>

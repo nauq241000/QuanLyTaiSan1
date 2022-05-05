@@ -1,0 +1,27 @@
+D:\LuanVan\ChiTietCongViec\BLL\bin\Release\BLL.dll
+D:\LuanVan\ChiTietCongViec\BLL\bin\Release\BLL.pdb
+D:\LuanVan\ChiTietCongViec\BLL\bin\Release\Data.dll
+D:\LuanVan\ChiTietCongViec\BLL\bin\Release\Public.dll
+D:\LuanVan\ChiTietCongViec\BLL\bin\Release\Data.pdb
+D:\LuanVan\ChiTietCongViec\BLL\bin\Release\Public.pdb
+D:\LuanVan\ChiTietCongViec\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVan\ChiTietCongViec\BLL\obj\Release\BLL.dll
+D:\LuanVan\ChiTietCongViec\BLL\obj\Release\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\BLL.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Data.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Public.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Data.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Public.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\obj\Release\BLL.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\obj\Release\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\BLL.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Data.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Public.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Data.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\bin\Release\Public.pdb
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\obj\Release\BLL.dll
+D:\LuanVanFull\Luận Văn\QuanLyTaiSan\QuanLyTaiSan\ChiTietCongViec\BLL\obj\Release\BLL.pdb

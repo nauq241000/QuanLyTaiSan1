@@ -1,0 +1,4 @@
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\bin\Release\PhanCong.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\bin\Release\PhanCong.pdb
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\obj\Release\PhanCong.dll
+D:\LuanVan\QuanLyTaiSan\QuanLyTaiSan\PhanCong\obj\Release\PhanCong.pdb
